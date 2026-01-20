@@ -15,6 +15,7 @@
 ### HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/vaishubokare28)
 
+## 📄 Resume
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14JjnoGrYS1xvE-a1Q8EmyD6Rjc5f6rD4/view)
 
 
