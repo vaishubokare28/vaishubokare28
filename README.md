@@ -15,8 +15,8 @@
 ### HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/vaishubokare28)
 
-## 📄 Resume
-- 📥 [View My Resume](https://drive.google.com/file/d/14JjnoGrYS1xvE-a1Q8EmyD6Rjc5f6rD4/view)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14JjnoGrYS1xvE-a1Q8EmyD6Rjc5f6rD4/view)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vaishubokare28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
