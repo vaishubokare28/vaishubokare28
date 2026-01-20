@@ -19,11 +19,11 @@
 ### HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/vaishubokare28)
 
----
-[![](https://visitcount.itsvg.in/api?id=vaishubokare28&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 📄 Resume
 
 - 📥 [View / Download My Resume](https://drive.google.com/file/d/14JjnoGrYS1xvE-a1Q8EmyD6Rjc5f6rD4/view)
+
+---
+[![](https://visitcount.itsvg.in/api?id=vaishubokare28&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
