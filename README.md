@@ -7,14 +7,14 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
+<!--
 ## 🧠 Coding Practice
 ### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vaishubokare28?theme=dark&font=Karma&ext=heatmap)
 
 ### HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/vaishubokare28)
-
+ --> 
 ## 📄 Resume
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14JjnoGrYS1xvE-a1Q8EmyD6Rjc5f6rD4/view)
 
